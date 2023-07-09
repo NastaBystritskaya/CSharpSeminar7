@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 7\задача 51\bin\Debug\net7.0\задача 51.exe
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 7\задача 51\bin\Debug\net7.0\задача 51.deps.json
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 7\задача 51\bin\Debug\net7.0\задача 51.runtimeconfig.json
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 7\задача 51\bin\Debug\net7.0\задача 51.dll
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 7\задача 51\bin\Debug\net7.0\задача 51.pdb
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 7\задача 51\obj\Debug\net7.0\задача 51.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 7\задача 51\obj\Debug\net7.0\задача 51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 7\задача 51\obj\Debug\net7.0\задача 51.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 7\задача 51\obj\Debug\net7.0\задача 51.AssemblyInfo.cs
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 7\задача 51\obj\Debug\net7.0\задача 51.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 7\задача 51\obj\Debug\net7.0\задача 51.dll
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 7\задача 51\obj\Debug\net7.0\refint\задача 51.dll
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 7\задача 51\obj\Debug\net7.0\задача 51.pdb
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 7\задача 51\obj\Debug\net7.0\задача 51.genruntimeconfig.cache
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 7\задача 51\obj\Debug\net7.0\ref\задача 51.dll
